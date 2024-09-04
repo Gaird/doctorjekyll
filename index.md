@@ -2,6 +2,10 @@
 layout: default
 ---
 
+# Below this headline are a list of formatting examples show how the typical website content markup will look in the Cayman theme
+
+---
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
