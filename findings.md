@@ -21,7 +21,7 @@ Ramp up and [test running Jekyll locally](https://kinsta.com/blog/jekyll-static-
 
 ![Image](/images/image.png)
 
-Depending which article I am reading, there is one way to do a Jekyll local install as a scratch build Jekyll site, after running the site locally, for upload somewhere as a static site files (vs. building in a GitHub/Lab environment).
+Depending which article I am reading, there is one way to do a Jekyll local install as a scratch build Jekyll site, after running the site locally, for upload somewhere as a static flat file deployment vs. building in a GitHub/Lab environment that deploys for you.
 
 Vs. following [this article about running Jekyll locally when using Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/getting_started/pages_from_scratch.html){:target="_blank"}, which runs a Docker image, uses Gemfiles and such. This may need Dimas to guide.
 
