@@ -36,7 +36,6 @@ Testing Jekyll themes on Github pages
 [Found this developer’s blog](https://aregsar.com/blog/2019/how-to-customize-your-github-pages-blog-style-in-five-minutes/){:target="_blank"} that explains some tips for customizing the Cayman theme on Github Page
 
 
-
 ## This Just In…
 
 Found [this docs site for GitHub Developers](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class){:target="_blank"}
