@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Below this headline are a list of formatting examples show how the typical website content markup will look in the Cayman theme
+## Below this headline are a list of formatting examples showing how the typical website content markup will look in the Cayman theme
 
 ---
 
