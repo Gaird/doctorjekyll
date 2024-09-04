@@ -53,7 +53,8 @@ It is a CDN for NPM stuff, by Cloudflare. Not sure, will check on that later wit
 
 Then I search up [Docsify](https://docsify.js.org/#/), and bingo, [this is the software](https://docsify.js.org/#/){:target="_blank"} used by the GitHub Dev docs site
 
-It is [a no HTML page generator](https://docsify.js.org/#/?id=docsify), generates pages with JavaScript. Hm, ok, and it works on GitHub pages. Let’s check out how I can test it. I look at the Guide, and down on the Deploy tab I see instructions for running Docsify on various platforms and lo and behold, I see [instructions for GitLab pages](https://docsify.js.org/#/deploy), too.
+It is [a no HTML page generator](https://docsify.js.org/#/?id=docsify){:target="_blank"}
+It generates pages with JavaScript. Hm, ok, and it works on GitHub pages. Let’s check out how I can test it. I look at the Guide, and down on the Deploy tab I see instructions for running Docsify on various platforms and lo and behold, I see [instructions for GitLab pages](https://docsify.js.org/#/deploy){:target="_blank"}, too.
 
 Et voilà! That will be our next test.
 
