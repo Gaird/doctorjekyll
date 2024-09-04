@@ -7,7 +7,6 @@ permalink: /about
 This is a test of Notion markdown being copied and pasted into a Jekyll page.
 
 [Click here for source page in Notion](https://mightydev.notion.site/Nooz-Plugin-Documentation-95cd27891363476a91b485a33e9f89d5){:target="_blank"}
-__
 
 # Nooz Plugin Documentation
 
