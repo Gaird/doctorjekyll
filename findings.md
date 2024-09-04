@@ -41,7 +41,7 @@ It has a very nice theme. I wonder what they use? Let’s view source:
 
 ![Image](/images/image-1.png)
 
-Not sure what I am looking at. Let’s poke around. Firs the stylesheet link to
+Not sure what I am looking at. Let’s poke around. First the stylesheet link, that goes here:
 
 [https://unpkg.com/docsify/lib/themes/vue.css](https://unpkg.com/docsify/lib/themes/vue.css){:target="_blank"}
 
@@ -49,7 +49,7 @@ Not sure what this is, but then I check out
 
 [https://unpkg.com/](https://unpkg.com/){:target="_blank"}
 
-It is a CDN for NPM stuff, by Cloudflare. Not sure, will check back later.
+It is a CDN for NPM stuff, by Cloudflare. Not sure, will check on that later with Dimas.
 
 Then I search up [Docsify](https://docsify.js.org/#/), and bingo, [this is the software](https://docsify.js.org/#/){:target="_blank"} used by the GitHub Dev docs site
 
